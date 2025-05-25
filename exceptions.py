@@ -1,0 +1,3 @@
+class ParseRemoteIdError(Exception):
+	pass
+	

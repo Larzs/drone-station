@@ -1,0 +1,2 @@
+SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="00:c0:ca:b6:33:cf", NAME="monitors"
+SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="2c:cf:67:b2:10:90", NAME="wlan0"
